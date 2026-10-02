@@ -1,0 +1,9 @@
+id_curso,id_empleado,nombre_curso,horas_curso,costo_total,cobertura_sence,estado,fecha_termino
+C101,E001,SQL Server Avanzado,30,150000,150000,Aprobado,2025-03-10
+C102,E002,AWS Cloud Practitioner,40,200000,160000,Aprobado,2025-04-15
+C103,E003,Gestion del Talento,20,100000,100000,Aprobado,2025-02-28
+C104,E004,Liderazgo Operacional,25,120000,96000,Aprobado,2025-05-20
+C105,E005,Power BI DAX,30,150000,150000,Aprobado,2025-03-25
+C106,E006,Excel Avanzado & Macros,20,80000,80000,Reprobado,2025-04-02
+C107,E007,Ciberseguridad Basica,15,60000,60000,Aprobado,2025-05-05
+C108,E008,Power BI para Finanzas,30,150000,120000,Aprobado,2025-06-12
